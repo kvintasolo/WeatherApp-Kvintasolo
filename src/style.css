@@ -23,6 +23,9 @@ img {
 
   max-width: 100%;
 }
+footer{
+   text-align: center;
+}
 #date {
   margin: 1px 5px;
   color: #169cb2;
